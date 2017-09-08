@@ -1,4 +1,4 @@
-## 目前分類:20
+## 目前分類:21
 * [Ansible](/Ansible/Ansible.md)
 * [Atom](/Atom/Atom.md)
 * [D3](/D3/D3.md)  
@@ -9,6 +9,7 @@
 * [GitHub](/GitHub/GitHub.md) 
 * [GnuCash](/GnuCash/GnuCash.md)
 * [hadoop](/hadoop/hadoop.md)  
+* [Kodi](/Kodi/Kodi.md)
 * [Kubernetes](/Kubernetes/Kubernetes.md)  
 * [Marathon](/Marathon/Marathon.md)  
 * [Mattermost](/Mattermost/Mattermost.md)  
