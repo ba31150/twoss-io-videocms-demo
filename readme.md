@@ -1,2 +1,2 @@
 ## 分類
-* [OpenStack](openstack.md)
+* [OpenStack](/openstack/openstack.md)
