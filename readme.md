@@ -1,4 +1,4 @@
-## 目前分類:16
+## 目前分類:17
 * [Ansible](/Ansible/Ansible.md)  
 * [D3](/D3/D3.md)  
 * [Docker](/Docker/Docker.md) 
@@ -14,4 +14,5 @@
 * [OpenStack](/openstack/openstack.md)  
 * [Piwik](/Piwik/Piwik.md)  
 * [SugarCRM](/SugarCRM/SugarCRM.md)  
+* [Vagrant](/Vagrant/Vagrant.md)
 * [Taiga](/Taiga/Taiga.md)  
