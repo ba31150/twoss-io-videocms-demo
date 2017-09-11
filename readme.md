@@ -1,4 +1,4 @@
-## 組織分類:1
+## 組織分類:2
 * [Massachusetts Institute of Technology](/mit/mit.md)
 * [Utah State University](/UtahStateUniversity/UtahStateUniversity.md)
 ## 技術分類:38
