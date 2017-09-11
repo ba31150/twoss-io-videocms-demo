@@ -2,25 +2,25 @@
 <table>
   <tr>
     <td>
-    1
+   * [Ansible](/Ansible/Ansible.md)
     </td>
     <td>
-    2
+    * [Arduino](/Arduino/Arduino.md)
     </td>
   </tr>
   <tr>
     <td>
-    3
+   * [Atom](/Atom/Atom.md)
     </td>
     <td>
-    4
+    * [D3](/D3/D3.md)  
     </td>
   </tr>
 </table>  
-* [Ansible](/Ansible/Ansible.md)
-* [Arduino](/Arduino/Arduino.md)
-* [Atom](/Atom/Atom.md)
-* [D3](/D3/D3.md)  
+
+
+
+
 * [Docker](/Docker/Docker.md) 
 * [Dolphin](/Dolphin/Dolphin.md)  
 * [Drupal](/Drupal/Drupal.md) 
