@@ -1,8 +1,9 @@
-## 組織分類:4
+## 組織分類:5
 * [Harvard Unversity](/Harvard/Harvard.md)
 * [Massachusetts Institute of Technology](/mit/mit.md)
 * [Yale Unversity](/YaleUnversity/YaleUnversity.md)
 * [Utah State University](/UtahStateUniversity/UtahStateUniversity.md)
+* [清华大学](/xuetangx/xuetangx.md)
 ## 技術分類:38
 * [Ansible](/Ansible/Ansible.md) [Arduino](/Arduino/Arduino.md) [Atom](/Atom/Atom.md)
 * [D3](/D3/D3.md) [Docker](/Docker/Docker.md) [Dolphin](/Dolphin/Dolphin.md) [Drupal](/Drupal/Drupal.md)
