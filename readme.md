@@ -1,5 +1,6 @@
-## 組織分類:2
+## 組織分類:3
 * [Massachusetts Institute of Technology](/mit/mit.md)
+* [Yale Unversity](/YaleUnversity/YaleUnversity.md)
 * [Utah State University](/UtahStateUniversity/UtahStateUniversity.md)
 ## 技術分類:38
 * [Ansible](/Ansible/Ansible.md) [Arduino](/Arduino/Arduino.md) [Atom](/Atom/Atom.md)
