@@ -1,4 +1,4 @@
-## 目前分類:31
+## 目前分類:32
 * [Ansible](/Ansible/Ansible.md)
 * [Arduino](/Arduino/Arduino.md)
 * [Atom](/Atom/Atom.md)
@@ -24,6 +24,7 @@
 * [MQTT](/MQTT/MQTT.md)
 * [Piwik](/Piwik/Piwik.md)
 * [Roundcube](/Roundcube/Roundcube.md)
+* [Redux](/Redux/Redux.md)
 * [Sonoff](/Sonoff/Sonoff.md)
 * [SugarCRM](/SugarCRM/SugarCRM.md) 
 * [Swift](/Swift/Swift.md)
