@@ -5,4 +5,3 @@ layout: default
 [Apache Mesos vs. Hadoop YARN #WhiteboardWalkthrough](https://youtu.be/aXJxyEnkHd4)  
 [What is Hadoop?](https://youtu.be/9s-vSeWej1U)  
 [What is Big Data and Hadoop?](https://youtu.be/FHVuRxJpiwI)  
-[Apache Mesos vs. Hadoop YARN #WhiteboardWalkthrough](https://youtu.be/aXJxyEnkHd4)
